@@ -29,7 +29,7 @@ Param(
     [string[]]$ScriptArgs
 )
 
-$FakeVersion = "4.61.2"
+$FakeVersion = "5.8.4"
 $DotNetChannel = "LTS";
 $DotNetVersion = "2.0.0";
 $DotNetInstallerUri = "https://raw.githubusercontent.com/dotnet/cli/v2.0.0/scripts/obtain/dotnet-install.ps1";
